@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/Chapter_05_Initialization _&amp;_Cleanup" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/Chapter_08_Polymorphism" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/Chapter_10_Inner_class" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/Addition_structure_data" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
